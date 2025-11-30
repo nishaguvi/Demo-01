@@ -1,1 +1,2 @@
-Test sample
+This is the sample test text file. 
+Now we checking for the changes will be done or not
